@@ -8,7 +8,7 @@ During my training, I gained practical experience in creating various types of a
 
 I would like to introduce my portfolio projects here.
 
-## You can find my CV here: -> [CV ALEKSANDR KARPOV](https://github.com/papadoster/papadoster/files/CV_ALEKSANDR_KARPOV_IOS_DEVELOPER.pdf)
+## You can find my CV here: -> [CV ALEKSANDR KARPOV](https://raw.githubusercontent.com/papadoster/papadoster/2d61478887147c45c52794e7b6d796d8841177ef/files/CV_ALEKSANDR_KARPOV_IOS_DEVELOPER.pdf)
 
 <p> </p>
 
