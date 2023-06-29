@@ -6,7 +6,6 @@ I used to have my own business, but because of the conflict in Ukraine, I had to
 
 During my training, I gained practical experience in creating various types of applications, such as a weather app, chat app, task app, CoreML-based app, news app, currency converter, and more.
 
-I would like to introduce my portfolio projects here.
 
 ## You can find my CV here: -> [CV ALEKSANDR KARPOV](https://raw.githubusercontent.com/papadoster/papadoster/2d61478887147c45c52794e7b6d796d8841177ef/files/CV_ALEKSANDR_KARPOV_IOS_DEVELOPER.pdf)
 
