@@ -1,6 +1,6 @@
 # Hi there, I'm Alexander 👋
 
-###  I'm a self-taught iOS-Developer
+###  I'm a iOS-Developer
 
 I used to have my own business, but because of the conflict in Ukraine, I had to move to Germany and close my business in Russia. This made me decide to change my career, and in November 2022, I started learning iOS development. I completed "The Complete iOS App Development Bootcamp" course at the London App Brewery School, and currently, I'm taking the "Meta iOS Developer Professional Certificate" course.
 
