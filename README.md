@@ -38,4 +38,4 @@ Experiments are pre-registered, and negative results are reported next to positi
 
 ## Contact
 
-karpovalex.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/papadoster)
+karpovalex.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/karpovalex) · ORCID [0009-0006-6829-6284](https://orcid.org/0009-0006-6829-6284)
